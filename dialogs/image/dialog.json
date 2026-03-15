@@ -1,0 +1,12 @@
+{
+  "name": "image",
+  "displayName": "Image Generation",
+  "description": "Converge intent for image generation. Translates canon to detailed image generation prompts.",
+  "version": "0.1.0",
+  "keywords": [
+    "image", "picture", "photo", "illustration", "art",
+    "visual", "design", "logo", "icon", "drawing",
+    "afbeelding", "foto", "tekening", "illustratie", "beeld",
+    "poster", "banner", "artwork"
+  ]
+}

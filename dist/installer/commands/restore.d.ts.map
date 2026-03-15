@@ -1,0 +1,1 @@
+{"version":3,"file":"restore.d.ts","sourceRoot":"","sources":["../../../src/installer/commands/restore.ts"],"names":[],"mappings":"AAIA,MAAM,WAAW,aAAa;IAC5B,OAAO,EAAE,OAAO,CAAC;IACjB,UAAU,EAAE,MAAM,CAAC;IACnB,UAAU,EAAE,MAAM,CAAC;IACnB,gBAAgB,CAAC,EAAE,MAAM,CAAC;IAC1B,KAAK,CAAC,EAAE,MAAM,CAAC;CAChB;AAED,wBAAgB,OAAO,CAAC,UAAU,EAAE,MAAM,EAAE,MAAM,EAAE,OAAO,GAAG,aAAa,CAgD1E"}

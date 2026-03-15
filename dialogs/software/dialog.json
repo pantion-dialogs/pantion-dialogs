@@ -1,0 +1,12 @@
+{
+  "name": "software",
+  "displayName": "Software Development",
+  "description": "Converge intent for software projects. Translates canon to project specification files (requirements, constraints, specs).",
+  "version": "0.1.0",
+  "keywords": [
+    "software", "app", "application", "api", "website", "web",
+    "tool", "cli", "service", "system", "platform", "backend",
+    "frontend", "database", "server", "code", "program",
+    "bouwen", "applicatie", "programma"
+  ]
+}

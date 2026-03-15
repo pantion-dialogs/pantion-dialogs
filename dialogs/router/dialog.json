@@ -1,0 +1,12 @@
+{
+  "name": "router",
+  "displayName": "Pantion Router",
+  "description": "Entry point dialog that routes the user to the right Pantion tool in minimal steps. Not a convergence dialog — a routing dialog.",
+  "version": "0.1.0",
+  "keywords": [
+    "pantion", "router", "route",
+    "wat kan ik doen", "what can I do",
+    "where do I start", "waar begin ik",
+    "help me kiezen", "help me choose"
+  ]
+}

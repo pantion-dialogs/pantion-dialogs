@@ -1,0 +1,1 @@
+{"version":3,"file":"registry.d.ts","sourceRoot":"","sources":["../../../src/installer/adapters/registry.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,QAAQ,EAAE,MAAM,aAAa,CAAC;AAC5C,OAAO,KAAK,EAAE,aAAa,EAAE,MAAM,YAAY,CAAC;AAehD,wBAAgB,UAAU,CAAC,EAAE,EAAE,QAAQ,GAAG,aAAa,CAEtD;AAED,wBAAgB,cAAc,IAAI,aAAa,EAAE,CAEhD"}

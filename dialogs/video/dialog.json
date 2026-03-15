@@ -1,0 +1,12 @@
+{
+  "name": "video",
+  "displayName": "Video Generation",
+  "description": "Converge intent for video generation. Translates canon to detailed video generation prompts.",
+  "version": "0.1.0",
+  "keywords": [
+    "video", "animation", "motion", "film", "clip", "scene", "cinematic",
+    "short film", "reel", "footage", "commercial", "trailer", "intro",
+    "sora", "runway", "kling", "pika", "luma", "minimax", "veo",
+    "animatie", "scène"
+  ]
+}
